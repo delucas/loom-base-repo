@@ -19,7 +19,7 @@ public class Par<T1, T2> {
 
 	@Override
 	public boolean equals(final Object obj) {
-		throw new RuntimeException("No implementado aún");
+		return false;
 	}
 
 	@Override
